@@ -1,29 +1,21 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post test", 
-     "body":{ "title": " Rules in ORDER 1 - APPLICATION AND INTERPRETATION",
-       "description":{
-         "rule": {
-         "ruleTitle":"RULE 1 - CITATION AND COMMENCEMENT",
-         "ruleBody": "These Rules may be cited as the Abia State High Court (Civil Procedure) Rules 2009 and shall come into force on the 1st day of July, 2009.",  
-         }
-       } }},
-    { "id": 2, "title": "Post 2", "body":
-   {
-        "title": " Rules in ORDER 1 - APPLICATION AND INTERPRETATION",
-       "description":{
-         "rule": {
-         "ruleTitle":"RULE 1 - CITATION AND COMMENCEMENT",
-         "ruleBody": "These Rules may be cited as the Abia State High Court (Civil Procedure) Rules 2009 and shall come into force on the 1st day of July, 2009.",  
-         }
-       } } },
-    
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+        "title": "Rules in ORDER of 1 -  APPLICATION AND INTERPRETATION",
+        "body": [
+          {
+            "subtitle": "RULE 1 - CITATION AND COMMENCEMENT",
+            "subbody": "These Rules may be cited as the Abia State High Court (Civil Procedure) Rules 2009 and shall come into force on the 1st day of July, 2009."
+          },
+          {
+            "subtitle": "RULE 2 - REPEAL OF HIGH COURT RULES 2001",
+            "subbody": "The Abia State High Court (Civil Procedure) Rules 2001 are hereby repealed."
+          },
+          {
+            "subtitle": "RULE 3 - APPLICATION",
+            "subbody": "(1) These Rules shall apply to all civil proceedings in this Court including all Part-Heard Causes and Matters. (2) In respect of causes and matters already pending, the Rules shall apply to every further step to be taken in respect of such causes and matters. (3) Application of these Rules shall be directed towards the achievement of a just, efficient and speedy dispensation of Justice. Forms (4) The Forms set out in appendix 1 in the Schedule to these Rules or Forms as near thereto as circumstances permit shall be used in all cases in which such Forms are applicable."
+          },
+          {
+            "subtitle": "RULE 4 - INTERPRETATION",
+            "subbody": "In the construction of these Rules, unless there is any thing in the subject matter or context repugnant thereto, the several words hereinafter mentioned or referred to shall have or include the following meanings, as the case may be: "Alternative Dispute Resolution" (ADR) includes Arbitration, Mediation and Conciliation. "Claim" includes the process for instituting actions in this court as provided in Form 1 with necessary modifications; "Claimant" shall include a claimant in a counter-claim; "Court" means the High Court of Abia State; "Court Process" or "Process" includes a claim; "Defendant shall include a defendant in a counterclaim; "Guardian" means any person who has for the time being, the charge of or control over a person under legal disability and includes a person appointed to institute or defend an action on behalf of any person; "Law" means the High Court Law cap. 48 Volume 1 1991 2000, Laws of Abia State of Nigeria; "Minor" means a person who has not attained the age of 18 years; "Originating Process" means any Court process by which a suit is initiated; "Person under legal disability" means persons who lack capacity to institute or defend any proceedings by reason of age, insanity, unsoundness of mind or otherwise; "Pleadings subsequent to reply" include rejoinder, surrejoinder, rebutter and surrebutter. "Probate action" means an action for the grant of Probate of the will, or letters of administration of the estate of a deceased person or for the revocation of such a grant or for a decree pronouncing for or against the validity of an alleged will, not being an action which is non-contentious or common form probate business; "Registrar" means the Chief Registrar, Deputy Chief Registrar, Assistant Chief Registrar, Senior Registrar, Higher Registrar or any other officer acting or performing the functions of a Registrar; "Registry" means the Registry of the High Court of Abia State in the appropriate Judicial Division; "Taxing Officer" means the Chief Registrar or such other Officer of the Court as the Chief Judge may appoint to tax costs."
+          }
+        ]
+      }
